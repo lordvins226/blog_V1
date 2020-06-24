@@ -21,14 +21,14 @@
     "@angular/router": "~9.1.9",
     "bootstrap": "^4.5.0",
     "rxjs": "~6.5.5",
-    "tslib": "^1.10.0",
+    "tslib": "^1.13.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.901.9",
-    "@angular/cli": "~9.1.7",
+    "@angular/cli": "~9.1.9",
     "@angular/compiler-cli": "^9.1.9",
-    "@angular/language-service": "~9.1.9",
+    "@angular/language-service": "~9.1.11",
     "@types/jasmine": "~3.5.11",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
